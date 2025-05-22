@@ -14,7 +14,7 @@ A Telegram game bot where users tap to earn coins and build towers. After 30 min
 2. Fork or upload this repo to GitHub
 3. Click the button below to deploy:
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/YOUR_USERNAME/TowerTycoonBot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/billyschmidt123/TowerTycoonBot)
 
 4. Add Environment Variables on Render:
    - `BOT_TOKEN`: Your Telegram Bot token
